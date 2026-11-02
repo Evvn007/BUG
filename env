@@ -1,0 +1,16 @@
+# Token bot dari @BotFather
+BOT_TOKEN=8889312472:AAEkG9lvqynOUkHSYkGAgcDirvx2H_Si3w8
+# Telegram user ID owner (hardcode, bisa cek ID lewat @userinfobot)
+OWNER_ID=8043736737
+
+# Username telegram owner (tanpa @), buat tombol contact di /start
+OWNER_USERNAME=@S8UBH4M
+
+FORCE_JOIN_CHANNEL=@EvvnReport,@EvvnBug
+# URL foto atau vidio buat menu /start
+MENU_VIDEO_URL=https://raw.githubusercontent.com/Renn-777/menu/main/a0d679a672c67f688dfe3aa3148b8ef6_720w.mp4
+MENU_PHOTO_URL=https://i.ibb.co/9HLnzT6j/image-1778151345954.jpg
+
+# Global media type for all menu blocks: video atau photo
+# Kalau mau ganti ke photo, tinggal ubah jadi photo.
+MENU_MEDIA_TYPE=photo
