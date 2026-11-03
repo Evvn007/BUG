@@ -1,4 +1,4 @@
-# EVVN BUG 
+# EVVN BUG BOT
 
 A Telegram bot with WhatsApp multi-session support, role-based access control, pairing flows, sub-bot deployment, and persistent JSON storage.
 
